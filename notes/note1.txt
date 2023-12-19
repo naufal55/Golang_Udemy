@@ -1,0 +1,4 @@
+untuk data nil sendiri bisa diimplementasi pada tipe data
+di interface, function, map, slice pointer dan channel (pembahasan tentang
+gourotine)
+
